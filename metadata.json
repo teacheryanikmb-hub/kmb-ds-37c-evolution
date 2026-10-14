@@ -1,0 +1,6 @@
+{
+  "name": "KMB Digital Society — 3.7C Mini Study Hub",
+  "description": "IB Diploma Programme Digital Society (SL) Topic 3.7C: Evolution of Robots and Autonomous Technologies interactive 150-minute study hub for Kolej MARA Banting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
